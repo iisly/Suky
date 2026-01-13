@@ -1,8 +1,8 @@
 # Suky
-simple asset & coupon manager
+Simple asset & coupon manager
 
 
-created with flutter + firebase
+Created with flutter + firebase
 
 
 https://suky11.web.app
