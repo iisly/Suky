@@ -1,5 +1,4 @@
 # Suky
-## created with flutter + firebase
-## simple asset & coupon manager
-
-https://suky11.web.app/
+simple asset & coupon manager
+created with flutter + firebase
+https://suky11.web.app
