@@ -1,5 +1,6 @@
 # Suky
-Simple asset & coupon manager
+
+Manage Coupons and Accounting and Bucket List with Suky!!
 
 
 Created with flutter + firebase
